@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@import "./hamster.css";
+
+@import "./darkMode.css";
+
+@import "./notFound.css"

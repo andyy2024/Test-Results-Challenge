@@ -1,0 +1,42 @@
+[
+  {
+    "id": "REL001",
+    "name": "Mobile Banking 4.2",
+    "team": "Digital Banking",
+    "releaseDate": "2026-07-15",
+    "riskScore": 82,
+    "status": "Pending"
+  },
+  {
+    "id": "REL002",
+    "name": "Customer Portal 3.8",
+    "team": "Customer Experience",
+    "releaseDate": "2026-07-08",
+    "riskScore": 45,
+    "status": "In Review"
+  },
+  {
+    "id": "REL003",
+    "name": "Payment Processing 7.1",
+    "team": "Payments",
+    "releaseDate": "2026-06-30",
+    "riskScore": 93,
+    "status": "Pending"
+  },
+  {
+    "id": "REL004",
+    "name": "Reporting Service 2.3",
+    "team": "Finance Systems",
+    "releaseDate": "2026-08-02",
+    "riskScore": 28,
+    "status": "Approved"
+  },
+  {
+    "id": "REL005",
+    "name": "Identity Management 5.0",
+    "team": "Security",
+    "releaseDate": "2026-07-22",
+    "riskScore": 71,
+    "status": "In Review"
+  }
+]
